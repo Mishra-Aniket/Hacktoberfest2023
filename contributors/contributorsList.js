@@ -4,7 +4,11 @@ contributors = [
     fullname: "Anmol Agarwal",
     username: "https://github.com/fineanmol",
   },
-  
+  {
+    id: 2,
+    fullname: "Aniket Mishra",
+    username: "https://github.com/Mishra-Aniket",
+  },
   {
     id: 2,
     fullname: "Amitava Mitra",
